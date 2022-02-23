@@ -1,7 +1,7 @@
 # Lambda-Scripts
 Collection of Lambda Scripts from past projects that are no longer in operation
 
-------------- Event Based Social Media App ------
+# Event Based Social Media App
 The idea of this app was to let users create events in their area so they could meet other users.
 
 Each of these scripts were designed using API gateway to call the script and interact with DynamoDB for a serverless backend solution. 
